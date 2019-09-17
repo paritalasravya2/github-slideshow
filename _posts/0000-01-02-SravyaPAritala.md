@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: “Welcome to our second slide!”
-title: "title has been changed!"
+I am sravya paritala
 ---
 Your test
 Use the left arrow to go back!
